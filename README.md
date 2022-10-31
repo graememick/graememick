@@ -7,7 +7,7 @@ My path to engineering stems from my love of building things and my insatiable h
 I began to teach myself prgrograming through online courses and finally made the decision to pursue software-engineering as my full-time career 🌱
 
 Recently, I developed Tango Atsumare with a small team 👯‍♀️👯‍♂️
-Tango Atsumare is an SRS flashcard app using OCR to allow users to create flashcards easily from images 🤳, and a social media aspect for allolwing you to share, search and download cards created by other users 📱💻
+Tango Atsumare is an SRS flashcard app using OCR to allow users to create flashcards easily from images 🤳 and a social media aspect for allolwing you to share, search and download cards created by other users 📱💻
 
 Some of the tech I use:
 ⚡ JavaScript, React, React-native, Node.js, Git, PSQL, HTML, CSS, Express, Knex, TypeScript, Unity, C#, Vue, MongoDB, GraphQL, Docker
