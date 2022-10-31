@@ -12,5 +12,5 @@ Tango Atsumare is an SRS flashcard app using OCR to allow users to create flashc
 Some of the tech I use:
 ⚡ JavaScript, React, React-native, Node.js, Git, PSQL, HTML, CSS, Express, Knex, TypeScript, Unity, C#, Vue, MongoDB, GraphQL, Docker
 
- 📫 Feel free to reach out and get in touch for any reason whatsoever: 
+ 📫 Feel free to reach out and get in touch for any reason: 
  http://www.linkedin.com/in/graememick 😄
