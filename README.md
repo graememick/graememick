@@ -8,6 +8,9 @@ I began to teach myself programing through online courses and finally made the d
 
 Recently, I developed Tango Atsumare with a small team 👯‍♀️👯‍♂️
 Tango Atsumare is an SRS flashcard app using OCR to allow users to create flashcards easily from images 🤳 and a social media aspect for allowing you to share, search and download cards created by other users 📱💻
+See of demo of the app here: 
+
+[![Watch the video](assets/tango-video-thumbnail2.jpg)](https://www.youtube.com/watch?v=PSH1h7tCUjM)
 
 Some of the tech I use:
 ⚡ JavaScript, React, React-native, Node.js, Git, PSQL, HTML, CSS, Express, Knex, TypeScript, Unity, C#, Vue, MongoDB, GraphQL, Docker
