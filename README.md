@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Graeme. I'm a Full-Stack Software Engineer with a background in Audio Engineering 🎤
+I'm Mick. I'm a Full-Stack Software Engineer with a background in Audio Engineering 🎤
 I am currently enamored with learning new programming languages, and I enjoy looking for elegant solutions to complex problems 🧮
 
 My path to engineering stems from my love of building things and my insatiable need to keep learning 🔭 
